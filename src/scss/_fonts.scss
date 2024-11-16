@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Droid Bold';
+    src: url('../fonts/DroidSerif-Bold.ttf') format('ttf'),
+         url('../fonts/DroidSerif-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Droid Bold Italic';
+    src: url('../fonts/DroidSerif-BoldItalic.ttf') format('ttf'),
+         url('../fonts/DroidSerif-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Droid Italic';
+    src: url('../fonts/DroidSerif-Italic.ttf') format('ttf'),
+         url('../fonts/DroidSerif-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Droid Regular';
+    src: url('../fonts/DroidSerif-Regular.ttf') format('ttf'),
+         url('../fonts/DroidSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Viga';
+    src: url('../fonts/Viga-Regular.ttf') format('ttf'),
+         url('../fonts/Viga-Regular.ttf') format('truetype') ;
+    font-weight: 400;
+    font-style: normal;
+}
